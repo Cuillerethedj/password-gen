@@ -28,11 +28,11 @@ no? reset password generator
 https://user-images.githubusercontent.com/83473550/123282746-66540300-d4d0-11eb-86ac-c8990f07f26a.png
 
 # Contributors:
-Jacob Guiro
-Rico Perez
-Jessamyn McTwigan
-Brandon Norsworthy
-Marie Valdovino
+Jacob Guiro,
+Rico Perez,
+Jessamyn McTwigan,
+Brandon Norsworthy,
+Marie Valdovino.
 
 
 
